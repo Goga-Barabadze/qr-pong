@@ -1,0 +1,3 @@
+/Users/gogabarabadze/Documents/qrpong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gogabarabadze/Documents/qrpong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gogabarabadze/Documents/qrpong/cmake-build-debug/CMakeFiles/qrpong.dir
